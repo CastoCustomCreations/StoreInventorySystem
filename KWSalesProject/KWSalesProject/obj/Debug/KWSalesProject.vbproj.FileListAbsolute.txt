@@ -1,0 +1,16 @@
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\bin\Debug\KWSalesProject.exe.config
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\bin\Debug\KWSalesProject.exe
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\bin\Debug\KWSalesProject.pdb
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\bin\Debug\KWSalesProject.xml
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.vbprojAssemblyReference.cache
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.Resources.resources
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.vbproj.GenerateResource.cache
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.vbproj.CoreCompileInputs.cache
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.exe
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.xml
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.pdb
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.Customers.resources
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.MainMenu.resources
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.Login.resources
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\obj\Debug\KWSalesProject.OrderForm.resources
+C:\AdvancedVisualBasics\KWSalesProject\KWSalesProject\KWSalesProject\bin\Debug\KWSalesDB.mdb
